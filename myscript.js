@@ -14,7 +14,9 @@ console.log(studente);
 
 // 2) STAMPARE CON CICLO FOR TUTTE LE PROPRIETA' DELL'OGGETTO.
 
-
+for (var key in studente){
+    console.log(studente[key]); 
+}
 
 
 
