@@ -1,6 +1,13 @@
 // 1) CREARE UN OGGETTO CHE DESCRIVA UNO STUDENTE CON LE SEGUENTI PROPRIETA' : NOME, COGNOME ED ETA'.
 
+var studente = {
 
+    "nome": 'Riccardo',
+    'cognome': 'Pinco',
+    'eta': 23,
+}
+
+console.log(studente);
 
 
 
