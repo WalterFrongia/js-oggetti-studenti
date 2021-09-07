@@ -23,8 +23,8 @@ for (var key in studente){
 var studenti =
 [
     {
-        'nome': "Walter",
-        'cognome':"Frongia",
+        'nome': "Giacomo",
+        'cognome':"Argentero",
         'eta': 23,
     },
     {
@@ -51,16 +51,13 @@ for(let i = 0; i<studenti.length; i++){
 }
 
 
-
-
-
 // 5) DARE LA POSSIBILITA' ALL'UTENTE CON 3 PROMPT DI AGGIUNGERE UN NUOVO OGGETTO STUDENTE INSERENDO NELL'ORDINE NOME COGNOME E ETA'.
 
 //chiedere un nome all'utente
 
 let nomeUtente = prompt("inserisci il tuo nome");
 
-// chiedere cognome.
+//chiedere cognome.
 
 let cognomeUtente = prompt("Inserisci il tuo cognome");
 
